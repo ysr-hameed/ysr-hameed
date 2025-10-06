@@ -1,144 +1,88 @@
-# 👋 Hi, I'm Yasir Hameed
+# Yasir Hameed
+
+### Full-Stack Developer | AI & Cloud Enthusiast
 
 ---
 
-## 🚀 About Me
-
-I am a **full-stack developer** passionate about building **clean, scalable, and user-focused applications**.  
-I focus on **web, mobile, and cloud-native projects**, with strong attention to **performance, usability, and maintainability**.
-
-I enjoy experimenting with **AI, SaaS platforms, and DevOps pipelines**, creating products that **help people at scale**.
+### About Me
+I'm a full-stack developer focused on building scalable, performant, and user-centered applications.  
+My work spans across web, mobile, and cloud-native ecosystems, with strong attention to code quality and long-term maintainability.  
+I’m passionate about automation, AI-driven products, and systems that empower developers and creators.
 
 ---
 
-## 🛠️ Skills
+### Skills
 
-<table>
-<tr>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>
-    JavaScript
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br>
-    TypeScript
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>
-    React
-  </td>
-</tr>
-<tr>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>
-    Node.js
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>
-    Python
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br>
-    Next.js
-  </td>
-</tr>
-<tr>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>
-    Docker
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>
-    PostgreSQL
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/><br>
-    Firebase
-  </td>
-</tr>
-<tr>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/><br>
-    Laravel
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/><br>
-    Kubernetes
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40"/><br>
-    GitHub Actions
-  </td>
-</tr>
-</table>
+**Frontend**
+- React, Next.js, TypeScript, JavaScript, Tailwind CSS  
+
+**Backend**
+- Node.js, Express.js, Python, Laravel  
+
+**Databases**
+- PostgreSQL, Firebase, Prisma, Supabase  
+
+**DevOps & Cloud**
+- Docker, Kubernetes, GitHub Actions, CI/CD, Serverless Deployments  
+
+**Other**
+- REST APIs, Authentication Systems, SaaS Architectures, Automation Scripts  
 
 ---
 
-## 📈 Journey Timeline
+### Journey
 
-- **2020** → Started coding, small web experiments  
-- **2021** → First full-stack projects, learned backend & databases  
-- **2022** → Mastered frontend frameworks: React, Next.js, Tailwind  
-- **2023** → Built cloud-native projects with Docker, Kubernetes, Firebase  
-- **2024** → Focused on SaaS apps, AI tools, and open-source contributions  
-
----
-
-## 📚 Currently Learning
-
-- **AI Integrations** → OpenAI APIs, LangChain  
-- **Cloud & DevOps** → Kubernetes, CI/CD pipelines, Serverless  
-- **UI/UX Systems** → Accessibility, responsive design, design systems  
-- **Advanced TypeScript** → Clean code & architecture patterns  
-- **Automation & Productivity Tools** → Scripts & APIs  
+| Year | Focus & Growth |
+|------|----------------|
+| 2020 | Started exploring programming and web fundamentals |
+| 2021 | Built first backend APIs and databases |
+| 2022 | Learned frontend frameworks (React, Next.js, Tailwind) |
+| 2023 | Worked on cloud-native & containerized applications |
+| 2024 | Built SaaS platforms, AI tools, and automation systems |
 
 ---
 
-## 🌱 Core Values
-
-- **Clarity** → Write readable and maintainable code  
-- **Reliability** → Build systems that perform under pressure  
-- **Creativity** → Solve problems in unique ways  
-- **Growth** → Always keep learning and improving  
-- **Impact** → Build products that truly help users  
-
----
-
-## 🎯 Achievements
-
-- Built **5+ full-stack projects** live in production  
-- Contributed to **open-source libraries** & GitHub repos  
-- Developed **mobile apps with real-time features**  
-- Maintained **consistent GitHub contributions** streak  
-- Optimized cloud projects reducing **cost & latency**  
+### Currently Learning
+- AI integrations (OpenAI, LangChain)  
+- Kubernetes, CI/CD pipelines  
+- Clean architecture with TypeScript  
+- UI/UX design systems  
+- Developer productivity & automation tools  
 
 ---
 
-## 🎉 Fun Facts
-
-- Love experimenting with **AI & automation tools**  
-- Enjoy **designing clean UI systems**  
-- Passionate about **learning new frameworks weekly**  
-- Blogging about **tech trends & development tips**  
-- Always exploring **new tools for productivity**  
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ysr-hameed&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysr-hameed&layout=compact&theme=transparent" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ysr-hameed&theme=transparent" height="150"/>
-</div>
+### Core Principles
+- **Clarity:** Write understandable, maintainable code  
+- **Reliability:** Ensure performance under real-world load  
+- **Creativity:** Approach problems with original solutions  
+- **Growth:** Continuous learning and improvement  
+- **Impact:** Build tools that genuinely help people  
 
 ---
 
-## 🌐 Connect
+### Highlights
+- Developed 5+ production-ready full-stack applications  
+- Contributed to open-source repositories and libraries  
+- Created mobile apps with real-time collaboration features  
+- Optimized cloud deployments for speed and cost efficiency  
+- Maintained an active and consistent GitHub contribution record  
 
-<p align="center">
-<a href="https://linkedin.com/in/ysr-hameed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/ysr_hameed"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+---
+
+### Personal Notes
+- Enjoys building automation and AI-integrated tools  
+- Loves designing minimal and functional user interfaces  
+- Constantly exploring new frameworks and development trends  
+- Writes about modern web development and product engineering  
+
+---
+
+### Connect
+**LinkedIn:** [linkedin.com/in/ysr-hameed](https://linkedin.com/in/ysr-hameed)  
+**Twitter:** [twitter.com/ysr_hameed](https://twitter.com/ysr_hameed)  
+**Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
+**Email:** [your@email.com](mailto:your@email.com)
+
+---
+
+> _“Build things that make life easier, not just prettier.”_
