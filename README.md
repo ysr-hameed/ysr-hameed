@@ -15,8 +15,8 @@ ___
 **Skills**
 
 ***Frontend:*** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS  
-***Backend:*** Node.js, Express.js, Python, Laravel, REST APIs, Authentication  
-***Databases:*** PostgreSQL, Firebase, MongoDB, Prisma  
+***Backend:*** Node.js, Express.js, Python, REST APIs, Authentication  
+***Databases:*** PostgreSQL, Firebase, MongoDB, Prisma, Drizzle
 ***DevOps:*** Docker, GitHub Actions, CI/CD, Cloud Deployments  
 ***Other:*** API Integration, Payment Systems, Automation, SaaS Platforms  
 
