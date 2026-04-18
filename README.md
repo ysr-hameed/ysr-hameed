@@ -23,7 +23,7 @@ ___
 
  **Connect**
 ***LinkedIn:*** [linkedin.com/in/yasir-hameed](https://linkedin.com/in/yasir-hameed-59b70b36b)  
-***Portfolio:*** [ysr-hameed.dev](https://ysr-hameed.dev)  
+***Portfolio:*** [ysr-hameed.github.io](https://ysr-hameed.github.io)  
 ***Email:*** [ysr.hameed.yh@gmail.com](mailto:ysr.hameed.yh@gmail.com)
 
 ___
