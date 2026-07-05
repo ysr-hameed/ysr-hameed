@@ -43,8 +43,10 @@ For me, clean code, usability, and performance always come first.
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysr-hameed&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=22C55E&title_color=22C55E" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysr-hameed&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=22C55E" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysr-hameed&theme=github_dark" />
+  <br/><br/>
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysr-hameed&theme=github_dark" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysr-hameed&theme=github_dark" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ysr-hameed&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
 </div>
