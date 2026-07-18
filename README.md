@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=22C55E&center=true&vCenter=true&width=500&lines=Hey!+I'm+Yasir+Hameed;Full-Stack+Web+Developer;Building+Things+That+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=green&center=true&vCenter=true&width=500&lines=Hey!+I'm+Yasir+Hameed;Full-Stack+Web+Developer;Building+Things+That+Work" alt="Typing SVG" />
 </div>
 
 ---
@@ -39,20 +39,6 @@ For me, clean code, usability, and performance always come first.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysr-hameed&theme=github_dark" />
-  <br/><br/>
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysr-hameed&theme=github_dark" />
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysr-hameed&theme=github_dark" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ysr-hameed&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
-</div>
-
----
-
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasir-hameed-59b70b36b)
